@@ -1,12 +1,12 @@
 # Olá, eu sou o Lucas! 
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes (Unit) em Aracaju. Sou apaixonado por transformar ideias em código e interfaces funcionais.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes (UNIT), interessado em desenvolvimento de software e na criação de soluções práticas através da tecnologia.
 
 ###  Sobre Mim
--  Atualmente cursando o 2º período de ADS (Previsão de formação: 2028).
--  Focado em desenvolvimento com **Python** e criação de interfaces modernas.
-- Possuo experiência em **Design Gráfico e Edição de Vídeo**, o que me ajuda a criar projetos com uma estética mais refinada.
-- Entusiasta da aviação e tecnologia de sistemas.
+-  Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidade Tiradentes (UNIT), com previsão de formação em 2028.
+-  Focado em **Desenvolvimento de Software**, com conhecimentos em Python, HTML, CSS, JavaScript e SQL.
+-  Desenvolvendo projetos práticos para aprimorar meus conhecimentos em programação, interfaces e sistemas web.
+-  Em busca da minha **primeira oportunidade de estágio em Tecnologia da Informação**, onde possa aprender, contribuir e evoluir profissionalmente.
 
 ### 🛠️ Tecnologias e Ferramentas
 
