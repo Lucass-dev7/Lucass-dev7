@@ -28,9 +28,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradent
 
 ###  Meus Principais Projetos
 
-* **Tradutor Lucas-DEV:** Um tradutor desktop com interface moderna e conversão de texto em voz.
-* **Guerra dos Cubos:** Um jogo shooter 2D desenvolvido em Pygame com mecânicas de mira e chefões.
+- **[🌐 Tradutor Lucas-DEV](https://github.com/Lucass-dev7/Tradutor-Lucas-DEV):** Tradutor desktop desenvolvido em Python, com interface moderna e conversão de texto em voz.
 
+- **[🌿 Sistema Natura](https://github.com/Lucass-dev7/sistema-natura-):** Sistema web para gestão de estoque e vendas, com cadastro de produtos, controle de estoque, registro de vendas, faturamento e relatórios.
+
+- **🎮 Guerra dos Cubos:** Jogo shooter 2D desenvolvido em Python com Pygame, contendo sistema de mira, inimigos e chefes.
 ---
 
 ###  Como me encontrar
