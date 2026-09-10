@@ -31,13 +31,26 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradent
 
 ---
 
-###  Meus Principais Projetos
+### 🚀 Meus Principais Projetos
 
-- **[🌐 Tradutor Lucas-DEV](https://github.com/Lucass-dev7/Tradutor-Lucas-DEV):** Tradutor desktop desenvolvido em Python, com interface moderna e conversão de texto em voz.
+#### 🌿 Sistema Natura — Gestão de Estoque e Vendas
 
-- **[🌿 Sistema Natura](https://github.com/Lucass-dev7/sistema-natura-):** Sistema web para gestão de estoque e vendas, com cadastro de produtos, controle de estoque, registro de vendas, faturamento e relatórios.
+Sistema web desenvolvido para auxiliar no controle de estoque e vendas, permitindo cadastrar produtos, registrar vendas, acompanhar o faturamento e visualizar relatórios.
 
-- **🎮 Guerra dos Cubos:** Jogo shooter 2D desenvolvido em Python com Pygame, contendo sistema de mira, inimigos e chefes.
+**Tecnologias:** HTML • CSS • JavaScript
+
+[🔗 Acessar projeto](https://lucass-dev7.github.io/sistema-natura-/) • [📂 Ver repositório](https://github.com/Lucass-dev7/sistema-natura-)
+
+---
+
+#### 🌐 Tradutor Lucas-DEV
+
+Aplicação desktop desenvolvida em Python com interface gráfica moderna, tradução de textos e conversão de texto em voz.
+
+**Tecnologias:** Python • CustomTkinter • gTTS
+
+[📂 Ver repositório](https://github.com/Lucass-dev7/Tradutor-Lucas-DEV)
+
 ---
 
 ###  Como me encontrar
