@@ -3,7 +3,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes (Unit) em Aracaju. Sou apaixonado por transformar ideias em código e interfaces funcionais.
 
 ###  Sobre Mim
--  Atualmente cursando o 1º período de ADS (Previsão de formação: 2028).
+-  Atualmente cursando o 2º período de ADS (Previsão de formação: 2028).
 -  Focado em desenvolvimento com **Python** e criação de interfaces modernas.
 - Possuo experiência em **Design Gráfico e Edição de Vídeo**, o que me ajuda a criar projetos com uma estética mais refinada.
 - Entusiasta da aviação e tecnologia de sistemas.
