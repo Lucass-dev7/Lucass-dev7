@@ -35,6 +35,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradent
 
 #### 🌿 Sistema Natura — Gestão de Estoque e Vendas
 
+[![Sistema Natura](assets/sistema-natura.png)](https://lucass-dev7.github.io/sistema-natura-/)
+
 Sistema web desenvolvido para auxiliar no controle de estoque e vendas, permitindo cadastrar produtos, registrar vendas, acompanhar o faturamento e visualizar relatórios.
 
 **Tecnologias:** HTML • CSS • JavaScript
@@ -44,6 +46,8 @@ Sistema web desenvolvido para auxiliar no controle de estoque e vendas, permitin
 ---
 
 #### 🌐 Tradutor Lucas-DEV
+
+[![Tradutor Lucas-DEV](assets/tradutor-lucas-dev.png)](https://github.com/Lucass-dev7/Tradutor-Lucas-DEV)
 
 Aplicação desktop desenvolvida em Python com interface gráfica moderna, tradução de textos e conversão de texto em voz.
 
